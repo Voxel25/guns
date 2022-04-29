@@ -1,5 +1,5 @@
 class Gun:
-    magazine_sze = 0
+    magazine_size = 0
 
     def __init__(self):
         self.loaded_bullets = self.magazine_size
